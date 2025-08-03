@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Resume - Rubeena Begum</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f0f2f5;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 40px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+      margin-bottom: 10px;
+    }
+    h1 {
+      font-size: 32px;
+    }
+    h2 {
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+    p, li {
+      font-size: 16px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .contact-info p {
+      margin: 4px 0;
+    }
+    .two-column {
+      display: flex;
+      justify-content: space-between;
+      gap: 30px;
+    }
+    .column {
+      flex: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Rubeena Begum</h1>
+    <div class="contact-info">
+      <p><strong>Address:</strong> Alkapure, Puppalguda, Hyderabad, Telangana</p>
+      <p><strong>Phone:</strong> +91 9705688112</p>
+      <p><strong>Email:</strong> fcrubeenabegum@gmail.com</p>
+    </div>
+
+    <h2>Professional Summary</h2>
+    <p>
+      MBA (HR) graduate with hands-on experience in administrative and technical roles, including employee management, onboarding, and payroll. Proficient in computer applications and basic IT troubleshooting such as Apache HTTP server configuration. Skilled in Microsoft Office Suite, teamwork, and creative problem-solving. Recognized for organizing events, managing data, and supporting team success. Seeking opportunities to contribute my skills to a growing organization.
+    </p>
+
+    <h2>Work Experience</h2>
+    <p><strong>HR Admin – Nutrition Center</strong><br>
+    Feb 2014 – Sept 2021</p>
+    <ul>
+      <li>Planned and managed nutrition plans for clients and staff.</li>
+      <li>Handled HR responsibilities: recruitment, onboarding, induction, leave and attendance management.</li>
+      <li>Processed payroll and managed employee data.</li>
+      <li>Maintained consultation calendar and supported personal trainers.</li>
+      <li>Managed employee separation and data filing.</li>
+    </ul>
+
+    <p><strong>Associate – Sutherland Global Services Pvt Ltd</strong><br>
+    Nov 2022 – Dec 2022</p>
+    <ul>
+      <li>Customer interaction and support services in a fast-paced environment.</li>
+      <li>Handled communication with clients and supported the backend data entry processes.</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>MBA in Human Resources</strong>, Hyderabad Presidency College (2019 – 2021)</li>
+      <li><strong>B.Com (Computers)</strong>, International Degree College (2015 – 2018)</li>
+      <li><strong>Intermediate (Accounts & Taxes)</strong>, Froebel Jr. College (2013 – 2015)</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+      <li>Post Graduate Diploma in Computer Application (PGDCA)</li>
+      <li>Chartered Accountant (CA) - Basic Level</li>
+      <li>Medical Laboratory Technician (MLT)</li>
+    </ul>
+
+    <h2>Technical Skills</h2>
+    <ul>
+      <li>Basic Computer Operations</li>
+      <li>MS Office (Word, Excel, PowerPoint)</li>
+      <li>Apache HTTPD installation and troubleshooting (Linux)</li>
+      <li>Employee and Data Management Systems</li>
+    </ul>
+
+    <h2>Interpersonal Skills</h2>
+    <ul>
+      <li>Teamwork & Collaboration</li>
+      <li>Creativity & Event Planning</li>
+      <li>Strong Communication & Organization</li>
+      <li>Basic Accounting Knowledge</li>
+    </ul>
+
+    <h2>Achievements</h2>
+    <ul>
+      <li>Organized successful corporate and community events.</li>
+      <li>Volunteered as Treasurer in a local nonprofit organization.</li>
+      <li>Consistently received positive feedback from supervisors for initiative and reliability.</li>
+    </ul>
+
+    <h2>Languages</h2>
+    <ul>
+      <li>English (Fluent)</li>
+      <li>Urdu (Fluent)</li>
+    </ul>
+  </div>
+</body>
+</html>
